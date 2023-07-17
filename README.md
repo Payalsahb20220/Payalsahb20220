@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Payal and I'm 2nd year Electrical student in Indian Institute of Technology Mandi..
+- 👋 Hi, I’m Payal and I'm  4th year Electrical student in Indian Institute of Technology Mandi..
 - 👀 I’m interested in Web devlopment , ML ,Competitive programming , DSA etc..
 - 🌱 I’m currently learning Django , dsa , pygame  , deep learning(beginner concept)
 - 💞️ I’m looking for simple github repo based on dsa topic which i could done or improve in their repo.
